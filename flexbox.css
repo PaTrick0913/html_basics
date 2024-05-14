@@ -1,0 +1,12 @@
+main {
+    width: 1000px;
+    height: auto;
+    border: 5px;
+    padding: 20px;
+}
+
+flexitem{
+    width: 200px;
+    heght: 200px;
+    border: 5px;
+}

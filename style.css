@@ -1,0 +1,42 @@
+h1{
+    color:white;
+    text-align: center;
+}
+
+.big{
+    color:white
+}
+
+.big{
+    background-color:;
+}
+p{
+    text-align: center ;
+    color:azure
+}
+
+body {
+    background-image:url(./cs.gif) ;
+    background-repeat: no-repeat;
+    background-size: 1900px;
+}
+.button{
+padding: 15px 25px;
+font-size: 24px;
+text-align: center;
+cursor: pointer;
+outline: none;
+color: #0e0c0c;
+background-color: #04AA6D;
+border: none;
+border-radius: 15px;
+box-shadow: 0 9px #dbb6b6;
+}
+.button:hover {
+  background-color: #046366;
+}
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
